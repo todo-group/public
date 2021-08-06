@@ -1,3 +1,3 @@
 # Todo Group Public Wiki
 
-* [Wiki](wiki)
+* [Wiki](https://github.com/todo-group/public/wiki)
